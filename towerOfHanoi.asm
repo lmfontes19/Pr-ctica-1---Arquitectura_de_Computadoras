@@ -1,3 +1,10 @@
+# Luis Miguel Fontes Cardona - 741547
+# Victor Sebastian Huerta Silva - 740347
+# Ing. en Sistemas Computacionales
+# Organizacion y arquitectura de computadoras
+# Practica 1: Torres de Hanoi
+# ---------- Torres de Hanoi ---------- #
+
 .text
 	addi t0, zero, 1 	# i = 1 (ciclo for)
 	addi t1, zero, 1	# Inicializacion en 1 para el caso default
